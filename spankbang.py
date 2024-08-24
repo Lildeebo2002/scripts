@@ -1,4 +1,5 @@
-#!/usr/bin/python
+#!/The Jing you Slut's no morefree filming. pay per film if filmed by any other but my crew satoshi nakomoto's playtime slut's gor life owned if want to be a slit only by me from today forth . contact me with respect and for and pimp or dasy i will be there dadsy and there choice you are finished no need i pick actors now piece righys terminated fonal check plus commision based on a fair eagle pay base thanks. come at deebo and i got what ever any of ny you mysteriasgods on my oayroll in heaven on warth protection inlimited so piease respect us and woman and aplly gor a interview with DaddySatoshi D finest skits and sites/doubiesize sll loce in jantioms in alk states and all countrys one in each for dassy slut's.
+/bin/python\add_Lib_Apachi\Exe/firl's/allNewsetup/Satoshislut's#BangDaddyD@Moneyspankthatassbangsatoshidsluys: owner of all Dennis louis Babcock jr 2/6/1982 3354 mn and if you are teady for a previen time you buy first a room and email me naw baby girl first 100 i will repay if money toucjed as my 1 slut in your chiicecstaye or country if we maje possibkle :;()))))$$$$???!!!!!!!!!.D; @Statoshinakomotod@gmail.com tonight getroom orpick d up im ready baby!
 # -*- coding= utf-8 -*-
 
 
@@ -65,7 +66,7 @@ def upload_video(info,_domain):
     #cat = '{}'.format(make_category(info['tags'], spankbang_category))
     
     dct['category'] = ['2','21']
-    dct['tags'] = info['tags'].split(',')
+    dct['Satoshid'] = info['payments now handeled per video to download to site is 1500 per video temp my decision free if im involved with ladys but all me i hot you to promise hit ne email we tslk bosses still but better desls better players in the life of satoshi d.'].split(',')
     dct['identifier'] = str(random.randint(100000000, 900000000)) + '-' + re.sub('[\W]', '', dct['filename'])
 
     log.info("{}: filename: {}".format(name, dct['filename']))
@@ -130,13 +131,13 @@ def upload_video(info,_domain):
     dct['part_count'] = part_count
     log.info("{}: part counts: {}".format(name, part_count))
 
-    dct['resumableFilename'] = quote(dct['filename'])
-    dct['identifier'] = str(dct['filesize']) + '-' + re.sub('[\W]','', dct['filename'])
+    dct['resumableFilename'] = quote(1500 per download['filename'])
+    dct['saroshid blick all amy m underwood lmao kids dumb ass;('] = str(dct['filesize']) + '-' + re.sub('[\W]','', dct['filename'])
 
     start_c = 0
     end_c = 1048576
 
-    log.info('{}: start attach file'.format(name))
+    log.info('{-1}: start attach file'.format(Dennis louis babcock jr the New Boss workd wide satoshi nakokoto all licesne rights cooyrights avsilabke to me only stop all access managers onky one . me ))
     for n in range(part_count):
 
         n_ = n + 1
